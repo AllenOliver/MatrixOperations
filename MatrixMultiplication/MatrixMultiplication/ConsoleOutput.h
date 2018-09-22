@@ -1,0 +1,22 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//	File Name:         ConsoleOutput.cpp
+//	Description:       Header for ConsoleOutput
+//	Course:            CSCI 1900 - Math for CS
+//	Author:            Allen Oliver
+//	Created:           Thursday, September 22, 2018
+//	Copyright:         Allen Oliver, 2018
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#pragma once
+#include "pch.h";
+
+class ConsoleOutput
+{
+public:
+
+	//Displays a header for the console
+	void DisplayHeader();
+
+};
