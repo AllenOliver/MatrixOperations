@@ -14,7 +14,7 @@
 #include <iostream>
 using namespace std;
 
-
+//Multiplies Matricies from Menu
 void MatrixOperations::MultiplyMatricies()
 {
 	int matrixA[10][10], matrixB[10][10], resultMatrix[10][10], row1, column1, row2, column2, i, j, k;
@@ -84,6 +84,7 @@ void MatrixOperations::MultiplyMatricies()
 
 }
 
+//Adds matricies together
 void MatrixOperations::AddMatricies()
 {
 	int matrixA[10][10], matrixB[10][10], resultMatrix[10][10], row1, column1, row2, column2, i, j;
