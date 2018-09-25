@@ -14,7 +14,7 @@
 #include <iostream>
 using namespace std;
 
-//Multiplies Matricies from Menu
+//multiplies 2 matricies 
 void MatrixOperations::MultiplyMatricies()
 {
 	int matrixA[10][10], matrixB[10][10], resultMatrix[10][10], row1, column1, row2, column2, i, j, k;
@@ -30,7 +30,7 @@ void MatrixOperations::MultiplyMatricies()
 	// ask the user to enter the size of matrix again.
 	while (column1 != row2)
 	{
-		cout << "Error! column of first matrix not equal to row of second.";
+		cout << "Error! column of first matrix not equal to row of second." << endl;
 
 		cout << "Enter rows and columns for first matrix: ";
 		cin >> row1 >> column1;
@@ -84,7 +84,7 @@ void MatrixOperations::MultiplyMatricies()
 
 }
 
-//Adds matricies together
+//adds 2 matricies 
 void MatrixOperations::AddMatricies()
 {
 	int matrixA[10][10], matrixB[10][10], resultMatrix[10][10], row1, column1, row2, column2, i, j;

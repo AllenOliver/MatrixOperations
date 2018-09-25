@@ -31,5 +31,5 @@ public:
 	list<string> GetMenuChoices();
 
 private:
-	std::list<std::string> menuItems;
+	list<string> menuItems;
 };

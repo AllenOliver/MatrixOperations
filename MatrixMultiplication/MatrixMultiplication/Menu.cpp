@@ -15,12 +15,13 @@
 #include <iostream>
 #include <list> 
 
-
+//constructor
 Menu::Menu()
 {
 	Display();
 }
 
+//Displays all menu items added
 void Menu::Display()
 {
 	int i = 1;
@@ -31,13 +32,17 @@ void Menu::Display()
 		cout << "). " + var << endl;
 		i++;
 	}
+
+
 }
 
+//for adding to the menu
 void Menu::AddToMenu(string choiceToAdd)
 {
 	menuItems.push_back(choiceToAdd);
 }
 
+//returns a list of menu options
 std::list<std::string> Menu::GetMenuChoices()
 {
 	return menuItems;

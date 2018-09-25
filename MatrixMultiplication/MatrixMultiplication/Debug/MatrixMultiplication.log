@@ -1,6 +1,5 @@
-﻿  MatrixOperations.cpp
-c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\matrixoperations.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\matrixoperations.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\matrixoperations.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\matrixoperations.cpp(77): warning C4101: 'k': unreferenced local variable
+﻿  Driver.cpp
+c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\driver.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\consoleoutput.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dinst\source\repos\matrixmultiplication\matrixmultiplication\matrixoperations.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   MatrixMultiplication.vcxproj -> C:\Users\dinst\source\repos\MatrixMultiplication\Debug\MatrixMultiplication.exe
