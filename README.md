@@ -23,4 +23,3 @@ Open the solution in visual studio and compile!
 # Social links
 [![alt text](https://static.filehorse.com/icons-web/social-networks/twitter-icon-32.png "Bottom Text")](https://twitter.com/AriBaaLLC)
 [![alt text](https://dl1.cbsistatic.com/i/r/2017/09/16/8a78b836-8d3f-4536-b074-9fb05b8acfa1/thumbnail/64x64/07611a60b79f31c88bae68196812d544/imgingest-1752453874456952821.jpg  "Bottom Text")](https://www.patreon.com/AriBaa)
-
