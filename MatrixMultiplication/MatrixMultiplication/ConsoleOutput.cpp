@@ -9,7 +9,7 @@
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#include "pch.h";
+#include "pch.h"
 #include "ConsoleOutput.h"
 #include <string>
 #include <iostream>
@@ -37,5 +37,4 @@ void ConsoleOutput::DisplayHeader()
 	}
 	LINE;
 	cout << endl;
-
 }
