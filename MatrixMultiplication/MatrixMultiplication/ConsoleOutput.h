@@ -10,7 +10,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #pragma once
-#include "pch.h";
+#include "pch.h"
 
 class ConsoleOutput
 {
@@ -18,5 +18,4 @@ public:
 
 	//Displays a header for the console
 	void DisplayHeader();
-
 };
